@@ -1,4 +1,4 @@
-# CS340-Comp-Graphic-and-Visualization
+# CS330-Comp-Graphic-and-Visualization
 
 * How do I approach designing software?
 
